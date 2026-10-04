@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets
+content_data/
+style_data/
+
+# Training outputs
+experiment/
+
+# Uploaded/generated files
+static/uploads/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
